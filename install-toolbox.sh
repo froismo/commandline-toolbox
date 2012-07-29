@@ -3,4 +3,4 @@
 #
 
 mkdir -p ~/bin
-ln -s ./mkcscope.sh ~/bin/mkcscope.sh
+ln -sf ./mkcscope.sh ~/bin/mkcscope.sh
