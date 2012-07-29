@@ -2,5 +2,5 @@
 #
 #
 
-mkdir -p ~/bin
-ln -sf ./mkcscope.sh ~/bin/mkcscope.sh
+mkdir -vp ~/bin
+ln -vsf ${PWD}/mkcscope.sh ~/bin/mkcscope.sh
